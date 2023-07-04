@@ -33,6 +33,11 @@ draft: false
 
 [Илья Сегалович](https://iseg.ya.ru/)
 
+# 2021
+
+![](john.jpg)
+
+[Джон Макафи](https://habr.com/ru/news/564380/)
 
 
 # 2023 
