@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Developer`s Blog</title>
+    <link>https://Danilo3.github.io/DevBlog/posts/</link>
+    <description>Recent content in Posts on Developer`s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 21:28:55 +0300</lastBuildDate><atom:link href="https://Danilo3.github.io/DevBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal 2022 Rewind</title>
+      <link>https://Danilo3.github.io/DevBlog/posts/my-second-post/</link>
+      <pubDate>Thu, 02 Mar 2023 21:28:55 +0300</pubDate>
+      
+      <guid>https://Danilo3.github.io/DevBlog/posts/my-second-post/</guid>
+      <description>Чуток (на два месяца) запоздалые и позитивные воспоминания того, что меня интересовало и понравилось(sic!) из 2022 года.
+И да, половина вещей из списка &amp;ldquo;древнейшие баяны-бабаяны, но мне как-то пофиг&amp;rdquo; (с)
+Начнем.
+Новые возможности нейросетей. Copilot, ChatGPT, Stable Diffusion, Midjourney, Яндекс Балабоба, ControlNet - куча их, уже даже не перечислишь. Как полноценный инструменты как по мне пока сыроваты, больше позабавиться, но потенциал серьезный и это здорово.
+Эмуляторы древних приставок или Fantasy Console TIC-80 и PICO-8 Просто сказка для обучения подрастающего поколения программированию.</description>
+    </item>
+    
+    <item>
+      <title>Hello, DevBlog</title>
+      <link>https://Danilo3.github.io/DevBlog/posts/my-first-post/</link>
+      <pubDate>Thu, 02 Mar 2023 17:38:55 +0300</pubDate>
+      
+      <guid>https://Danilo3.github.io/DevBlog/posts/my-first-post/</guid>
+      <description>Первый пост в честь запуска блога.
+Тема постов? Буду писать.. о всем, что придет в голову, но основном о жизни разработчика. Чуть технических постов вперемешку с жызнью.
+Кому это нужно? Да никому, в принципе. Разве что мне, как платформа для графоманства. Дайте трибуну.
+Частота постов? Постараюсь писать минимум 1 пост каждый день. Посмотрим сколько контента выдержит Github Pages. Ха)</description>
+    </item>
+    
+  </channel>
+</rss>

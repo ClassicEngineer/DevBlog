@@ -1,0 +1,7 @@
+baseURL = 'https://doka.blog'
+languageCode = 'en-us'
+title = 'Developer`s Blog'
+theme = 'coyote'
+
+[outputs]
+  home = ['HTML', 'JSON']
