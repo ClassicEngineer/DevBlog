@@ -10,7 +10,7 @@ draft: false
 
 
 
-Вольный и упрощенный перевод с https://www.baeldung.com/spring-boot-3-spring-6-new
+Вольный и упрощенный перевод взятый [отсюда](https://www.baeldung.com/spring-boot-3-spring-6-new)
 
 ##  1. Java 17 - Основной язык
 
