@@ -16,7 +16,6 @@ draft: false
 
 ### Core
 1. @Autowired
-
 2. @Bean
 3. @Component
 4. @Service
@@ -29,10 +28,20 @@ draft: false
 51. @Lazy - ленивая инициализация бина
 52. @Job - обьявить джобу
 79. @Singleton
+63. @PostConstruct
+64. @PreAuthorize
+65. @PreDestroy
+66. @Primary
+67. @Profile
+68. @Qualifier
+73. @Resource
+80. @SpringBootApplication
+77. @Scheduled - джоба по cron-расписанию
 
 ### Configuration
 46. @Import - Для импорта конфигураций одна в другую
 29. @ContextConfiguration
+81. @SpringJUnitConfig
 
 ### Enable
 
@@ -53,9 +62,17 @@ draft: false
 21. @BeforeAll
 22. @BeforeEach
 42. @ExtendWith
+88. @TestExecutionListeners
+89. @Test
 
 
+### Rest
 
+60. @Param
+61. @PathVariable
+71. @RequestMapping
+72. @RequestMapping
+74. @RestController
 
 ### Data
 24. @Column
@@ -65,77 +82,42 @@ draft: false
 50. @JoinTable
 82. @SqlGroup
 83. @Sql
+54. @ManyToMany
+55. @ManyToOne
+59. @OneToMany
+69. @Query
+70. @Repository
+62. @PersistenceContext
+86. @Таblе
 
 ### Transaction
 90. @Transactional
 12. @AfterTransaction
+23. @BeforeTransaction
+75. @Rollback
 
+48. @JmsListener - Листенер Java Message System, может слушать например ActiveMq/RabbitMq сообщения
+
+Неизвестные мне:
 
 9. @AdviceRequired
-
-
 13. @AliasFor
 17. @Audited
 19. @Basic
-
-23. @BeforeTransaction
-
 25. @ComponentScanning
-
-
-
 31. @DataSets
 32. @DisplayName
-
-
 40. @EntityListeners
-
-
 43. @GeneratedValue
-
 45. @ImportResource
-
-
-48. @JmsListener
-
-
 53. @ManagedResource
-54. @ManyToMany
-55. @ManyToOne
 56. @MappedSuperclass
 57. @Named
 58. @NotAudited
-59. @OneToMany
-60. @Param
-61. @PathVariable
-62. @PersistenceContext
-63. @PostConstruct
-64. @PreAuthorize
-65. @PreDestroy
-66. @Primary
-67. @Profile
-68. @Qualifier
-69. @Query
-70. @Repository
-71. @RequestMapping
-72. @RequestMapping
-73. @Resource
-74. @RestController
-75. @Rollback
 76. @RunWith
-77. @Scheduled
-78. @Service
-
-80. @SpringBootApplication
-81. @SpringJUnitConfig
-
 84. @StaticMetamodel
 85. @StepScope
-86. @Таblе
 87. @Temporal
-88. @TestExecutionListeners
-89. @Test
-
 91. @Transient
 92. @Valid
 93. @Value
