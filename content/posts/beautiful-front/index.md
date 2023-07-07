@@ -1,5 +1,5 @@
 ---
-title: "Beatiful Front"
+title: "Beautiful Front"
 date: 2023-07-07T11:41:27+03:00
 image: "frontend.jpg"
 draft: false
