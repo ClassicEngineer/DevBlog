@@ -23,102 +23,100 @@ draft: false
 6. @Configuration
 7. @Controller
 8. @ActiveProfiles - указывает активные профили
-16. @Async - метод будет выполняться асинхронно
-26. @ComponentScan - сканирование на поиск бинов
-51. @Lazy - ленивая инициализация бина
-52. @Job - обьявить джобу
-79. @Singleton - антипаттерн))
-63. @PostConstruct - функция вызовется после конструктора (см. Жизненный цикл спринга)
-64. @PreAuthorize - auth аспекты
-65. @PreDestroy - функция вызовется в конце жизненной цикла бина.
-66. @Primary - выбрать основной бин
-67. @Profile - указать профиль
-68. @Qualifier - выбрать нужный бин для иньекции
-73. @Resource - обозначить ресурс
-80. @SpringBootApplication
-77. @Scheduled - джоба по cron-расписанию
+9. @Async - метод будет выполняться асинхронно
+10. @ComponentScan - сканирование на поиск бинов
+11. @Lazy - ленивая инициализация бина
+12. @Job - обьявить джобу
+13. @Singleton - антипаттерн))
+14. @PostConstruct - функция вызовется после конструктора (см15. @PreAuthorize - auth аспекты
+16. @PreDestroy - функция вызовется в конце жизненной цикла бина17. @Primary - выбрать основной бин
+18. @Profile - указать профиль
+19. @Qualifier - выбрать нужный бин для иньекции
+20. @Resource - обозначить ресурс
+21. @SpringBootApplication
+22. @Scheduled - джоба по cron-расписанию
 
 ### Configuration
-46. @Import - Для импорта конфигураций одна в другую
-29. @ContextConfiguration
-81. @SpringJUnitConfig
+1. @Import - Для импорта конфигураций одна в другую
+2. @ContextConfiguration
+3. @SpringJUnitConfig
 
 ### Enable
 
-33. @EnableAsync
-34. @EnableBatchProcessing
-35. @EnableJms
-36. @EnableJpaRepositories
-37. @EnableScheduling
-38. @EnableWebMvc
-39. @ЕnаblеWebSocketMessageBroker
+1. @EnableAsync
+2. @EnableBatchProcessing
+3. @EnableJms
+4. @EnableJpaRepositories
+5. @EnableScheduling
+6. @EnableWebMvc
+7. @ЕnаblеWebSocketMessageBroker
 
 ### Tests
 
-10. @AfterAll
-11. @AfterEach
-14. @AssertFalse
-15. @AssertTrue
-21. @BeforeAll
-22. @BeforeEach
-42. @ExtendWith
-88. @TestExecutionListeners
-89. @Test
+1. @AfterAll
+2. @AfterEach
+3. @AssertFalse
+4. @AssertTrue
+5. @BeforeAll
+6. @BeforeEach
+7. @ExtendWith
+8. @TestExecutionListeners
+9. @Test
 
 
 ### Rest
 
-60. @Param
-61. @PathVariable
-71. @RequestMapping
-72. @RequestMapping
-74. @RestController
+1. @Param
+2. @PathVariable
+3. @RequestMapping
+4. @RequestMapping
+5. @RestController
 
 ### Data
-24. @Column
-41. @Entity
-44. @Id
-49. @JoinColumn
-50. @JoinTable
-82. @SqlGroup
-83. @Sql
-54. @ManyToMany
-55. @ManyToOne
-59. @OneToMany
-69. @Query
-70. @Repository
-62. @PersistenceContext
-86. @Таblе
+1. @Column
+2. @Entity
+3. @Id
+4. @JoinColumn
+5. @JoinTable
+6. @SqlGroup
+7. @Sql
+8. @ManyToMany
+9. @ManyToOne
+10. @OneToMany
+11. @Query
+12. @Repository
+13. @PersistenceContext
+14. @Таblе
 
 ### Transaction
-90. @Transactional
-12. @AfterTransaction
-23. @BeforeTransaction
-75. @Rollback
+1. @Transactional
+2. @AfterTransaction
+3. @BeforeTransaction
+4. @Rollback
+5. @JmsListener - Листенер Java Message System, может слушать например ActiveMq/RabbitMq сообщения
 
-48. @JmsListener - Листенер Java Message System, может слушать например ActiveMq/RabbitMq сообщения
 
 Неизвестные мне:
 
-9. @AdviceRequired
-13. @AliasFor
-17. @Audited
-19. @Basic
-25. @ComponentScanning
-31. @DataSets
-32. @DisplayName
-40. @EntityListeners
-43. @GeneratedValue
-45. @ImportResource
-53. @ManagedResource
-56. @MappedSuperclass
-57. @Named
-58. @NotAudited
-76. @RunWith
-84. @StaticMetamodel
-85. @StepScope
-87. @Temporal
-91. @Transient
-92. @Valid
-93. @Value
-94. @Version
+1. @AdviceRequired
+2. @AliasFor
+3. @Audited
+4. @Basic
+5. @ComponentScanning
+6. @DataSets
+7. @DisplayName
+8. @EntityListeners
+9. @GeneratedValue
+10. @ImportResource
+11. @ManagedResource
+12. @MappedSuperclass
+13. @Named
+14. @NotAudited
+15. @RunWith
+16. @StaticMetamodel
+17. @StepScope
+18. @Temporal
+19. @Transient
+20. @Valid
+21. @Value
+22. @Version
