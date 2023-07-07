@@ -27,14 +27,14 @@ draft: false
 26. @ComponentScan - сканирование на поиск бинов
 51. @Lazy - ленивая инициализация бина
 52. @Job - обьявить джобу
-79. @Singleton
-63. @PostConstruct
-64. @PreAuthorize
-65. @PreDestroy
-66. @Primary
-67. @Profile
-68. @Qualifier
-73. @Resource
+79. @Singleton - антипаттерн))
+63. @PostConstruct - функция вызовется после конструктора (см. Жизненный цикл спринга)
+64. @PreAuthorize - auth аспекты
+65. @PreDestroy - функция вызовется в конце жизненной цикла бина.
+66. @Primary - выбрать основной бин
+67. @Profile - указать профиль
+68. @Qualifier - выбрать нужный бин для иньекции
+73. @Resource - обозначить ресурс
 80. @SpringBootApplication
 77. @Scheduled - джоба по cron-расписанию
 
