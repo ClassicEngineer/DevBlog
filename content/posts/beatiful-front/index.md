@@ -1,7 +1,7 @@
 ---
 title: "Beatiful Front"
 date: 2023-07-07T11:41:27+03:00
-image: "image.jpeg"
+image: "frontend.jpg"
 draft: false
 # tags:
 #   - tagA

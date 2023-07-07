@@ -1,7 +1,7 @@
 ---
 title: "Day3p"
 date: 2023-07-07T11:51:34+03:00
-image: "image.jpeg"
+image: "beg.jpg"
 draft: false
 # tags:
 #   - tagA
