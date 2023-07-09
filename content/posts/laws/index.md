@@ -1,7 +1,7 @@
 ---
 title: "Laws"
 date: 2023-07-08T09:29:30+03:00
-image: "image.jpeg"
+image: "pif.webp"
 draft: false
 tags:
    - tech
@@ -19,4 +19,4 @@ tags:
 
 
 
-## Закон Амдала
+## [Закон Амдала](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%90%D0%BC%D0%B4%D0%B0%D0%BB%D0%B0)
