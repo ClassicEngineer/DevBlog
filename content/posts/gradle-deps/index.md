@@ -10,9 +10,13 @@ draft: false
 
 Здесь будет небольшой пост о gradle. А точнее о том, чем отличаются его зависисмости.
 
-Виды зависимостей
+Виды зависимостей:
 
 compilyOnly
+
+
 runtimeOnly
+
 implementation
+
 testImplementation
