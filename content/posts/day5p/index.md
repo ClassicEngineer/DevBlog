@@ -3,9 +3,8 @@ title: "Day5p"
 date: 2023-07-10T17:45:32+03:00
 image: "begun2.jpg"
 draft: false
-# tags:
-#   - tagA
-#   - tagB
+tags:
+- практика
 ---
 
 

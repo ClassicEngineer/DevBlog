@@ -3,9 +3,8 @@ title: "Day4p"
 date: 2023-07-09T19:59:52+03:00
 image: "hip.png"
 draft: false
-# tags:
-#   - tagA
-#   - tagB
+tags:
+- практика
 ---
 
 За сегодняшний день практики перевел на Spring Boot свою Enterprise версию Hello World.

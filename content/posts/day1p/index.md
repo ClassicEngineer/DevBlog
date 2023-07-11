@@ -4,7 +4,7 @@ date: 2023-03-23T22:14:10+03:00
 image: "rastyazhka_bedra.jpg"
 draft: false
 tags:
-   - practice
+- практика
 
 ---
 
