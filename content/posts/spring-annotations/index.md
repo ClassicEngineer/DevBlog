@@ -41,6 +41,11 @@ draft: false
 2. @ContextConfiguration
 3. @SpringJUnitConfig
 
+## Cloud
+1. @EnableCircuitBreaker
+2. @RibbonClient
+
+
 ### Enable
 
 1. @EnableAsync
@@ -95,6 +100,8 @@ draft: false
 4. @Rollback
 5. @JmsListener - Листенер Java Message System, может слушать например ActiveMq/RabbitMq сообщения
 
+## Redis
+1. @RedisHash() - размечает энтити для редиса
 
 Неизвестные мне:
 
