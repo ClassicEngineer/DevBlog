@@ -34,4 +34,4 @@ draft: false
 
 Что имеем в итоге:
 
-![](https:/doka.blog/sad2.mp4)
+![](resume_views.gif)
