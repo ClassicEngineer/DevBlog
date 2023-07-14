@@ -3,9 +3,8 @@ title: "Day8p"
 date: 2023-07-13T09:12:44+03:00
 image: "begp.jpg"
 draft: false
-# tags:
-#   - tagA
-#   - tagB
+tags:
+- практика
 ---
 
 
