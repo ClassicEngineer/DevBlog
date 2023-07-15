@@ -1,29 +1,39 @@
 ---
 title: "Day10p"
 date: 2023-07-15T10:44:36+03:00
-image: "image.jpeg"
+image: "run10.jpg"
 draft: false
 tags:
  - практика
 ---
 
-- [ ] Kata
-- [ ] Theory
-- [ ] Practice
-- [ ] Journey
+- [X] Kata
+- [x] Theory
+- [x] Practice
+- [x] Journey
 - [ ] Book
 
 
 # Kata
 
+Простенькая задачка про арифметическую последовательность
 
 # Theory
 
+Теория создания страниц в freeCodeCamp
 
 # Practice
 
+Учился поднимать локальный сервер.
+
+Снова радость от hello world
+
+![](hw.png)
 
 # Journey
+
+Пытался создать свой сайт-визитку. Просто обзорный профиль с ссылками.
+Для красоты остановился снова на любимом Hugo. Видимо для полностью своего решения еще не созрел.
 
 
 # Book
