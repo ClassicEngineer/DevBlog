@@ -13,11 +13,15 @@ tags:
 
 
 ***
+_Сперва короткие:_
 
 В IoT  буква S означает Security
 
-
 Я знаю отличную шутку про UDP, но не факт, что она до вас дойдет.
+
+There are 10 types of people: who understand binay and who not;
+
+There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.
 
 ***
 
