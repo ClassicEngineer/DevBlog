@@ -19,7 +19,7 @@ tags:
 - [X] Kata
 - [x] Theory
 - [ ] Practice
-- [ ] Journey
+- [x] Journey
 - [ ] Book
 
 
@@ -36,6 +36,8 @@ tags:
 
 
 # Journey
+
+Начал писать очередной "большой" проект - TrashMarket
 
 
 # Book

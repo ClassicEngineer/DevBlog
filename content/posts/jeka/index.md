@@ -38,3 +38,6 @@ draft: false
 
 [![Евгений Борисов — React](https://i1.ytimg.com/vi/7Cq5zEm2wq0/hqdefault.jpg)](https://www.youtube.com/watch?v=7Cq5zEm2wq0)
 
+
+
+Оказывается, такой плейлист [уже есть](https://www.youtube.com/playlist?list=PL6yLoZ_3Y0HKGL3F7vv2SNSrA3TkbXtBX)

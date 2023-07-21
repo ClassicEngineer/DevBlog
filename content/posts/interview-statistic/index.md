@@ -35,3 +35,10 @@ draft: false
 Что имеем в итоге:
 
 ![](resume_views.gif)
+
+
+UPD 21.07
+
+```sql
+INSERT INTO interview_stats SET fails = failes + 1, norm = norm + 1;
+```
