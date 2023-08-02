@@ -42,3 +42,11 @@ UPD 21.07
 ```sql
 INSERT INTO interview_stats SET fails = failes + 1, norm = norm + 1;
 ```
+
+На одном из собеседований произошел забавный случай. Интервьюер спрашивал меня с удивлением, как так, что я не использовал LinkedList.
+Вот как бы на этот вопрос ответил Джошуа Блох:
+
+```
+Does anyone actualluy uses LinkedList? I wrote it, and I never use it.
+
+```
