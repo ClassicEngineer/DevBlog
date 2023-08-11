@@ -1,7 +1,7 @@
 ---
 title: "Day21p"
 date: 2023-08-03T16:23:17+03:00
-image: "image.jpeg"
+image: "beg2.jpg"
 draft: false
 tags:
 - практика
@@ -9,10 +9,10 @@ tags:
 
 
 - [X] Kata
-- [ ] Theory
-- [ ] Practice
+- [X] Theory
+- [X] Practice
 - [ ] Journey
-- [ ] Book
+- [X] Book
 
 
 # Kata
