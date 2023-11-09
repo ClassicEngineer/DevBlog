@@ -47,3 +47,8 @@ tags:
 ![](moore.webp)
 
 [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore)
+
+
+![](bram_moolenaar.jpg)
+
+[Bram Moolenaar](https://www.cnews.ru/news/top/2023-08-07_umer_otets_legendarnogo)
