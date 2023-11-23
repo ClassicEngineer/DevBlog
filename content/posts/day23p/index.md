@@ -1,5 +1,5 @@
 ---
-title: "Day23p"
+title: "Day 23"
 date: 2023-11-10T12:08:13+03:00
 image: "legolas-archery.gif"
 draft: false
