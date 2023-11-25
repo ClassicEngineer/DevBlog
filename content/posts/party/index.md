@@ -11,8 +11,12 @@ tags:
 Итак, вечеринка только начинается. Что дальше в моих планах по изучению.
 
 -----
+
+## В планах освоить какой либо большой курс. Возможно Яндекс Практикум или HTML Academy Frontend.
+
 ## HTML Academy 
-[Большой курс HTML Academy "Фронтенд-разработчик"](https://htmlacademy.ru/profession/frontender)
+
+~~[Большой курс HTML Academy "Фронтенд-разработчик"](https://htmlacademy.ru/profession/frontender)~~
 
 
 [Тренажеры HTML Academy](https://htmlacademy.ru/roadmap)
@@ -86,3 +90,5 @@ tags:
 Пристегнулись и полетели!
 
 ![](poleteli.gif)
+
+Полетели на вечеринку программирования.
