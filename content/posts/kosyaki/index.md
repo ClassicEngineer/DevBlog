@@ -13,6 +13,8 @@ draft: false
 
 ![](js-java.png)
 
+----
+
 ### Чему учат на этих курсах?
 
 ![](course-fail.jpg)

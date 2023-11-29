@@ -21,3 +21,13 @@ draft: false
 Интернетный хейт это просто пыль.
 
 Если ее стряхнуть, то можно увидеть что-то стоящее.
+
+
+Также в планах посмотреть:
+
+{{< youtube id="bnzcSC8AmHY" autoplay="false" >}}
+
+А дальше:
+
+{{< youtube id="HDajDASxn-w" autoplay="false" >}}
+
